@@ -75,7 +75,7 @@
         "item_on_disabled_layer": "error",
         "items_not_allowed": "error",
         "length_out_of_range": "error",
-        "malformed_courtyard": "ignore",
+        "malformed_courtyard": "error",
         "microvia_drill_out_of_range": "error",
         "missing_courtyard": "ignore",
         "missing_footprint": "warning",
@@ -117,6 +117,7 @@
       "track_widths": [
         0.0,
         0.1524,
+        0.25,
         1.0,
         1.4,
         1.524,
@@ -130,6 +131,10 @@
         {
           "diameter": 0.4,
           "drill": 0.2
+        },
+        {
+          "diameter": 0.8,
+          "drill": 0.4
         }
       ],
       "zones_allow_external_fillets": false,
@@ -421,7 +426,7 @@
   },
   "sheets": [
     [
-      "6b18dfb2-aed6-4eea-bd52-5730c98974b5",
+      "1f4cc817-39b4-46e5-bf46-70eb5f8e88e7",
       ""
     ]
   ],
