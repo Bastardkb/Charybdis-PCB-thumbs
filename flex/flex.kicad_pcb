@@ -575,6 +575,9 @@
 				)
 			)
 		)
+		(path "/c1427591-98da-4931-8696-c59dd97eb8be")
+		(sheetname "/")
+		(sheetfile "flex.kicad_sch")
 		(attr smd)
 		(fp_text user "${REFERENCE}"
 			(at 0 2.500001 100)
@@ -2525,6 +2528,9 @@
 				)
 			)
 		)
+		(path "/f6349abc-4edd-48fd-a9d4-0c7b6c760936")
+		(sheetname "/")
+		(sheetfile "flex.kicad_sch")
 		(attr smd)
 		(fp_text user "${REFERENCE}"
 			(at 0.000001 2.5 90)
@@ -3481,6 +3487,9 @@
 				)
 			)
 		)
+		(path "/8575ca0b-a7b4-4fe6-b2e6-6259a3a16356")
+		(sheetname "/")
+		(sheetfile "flex.kicad_sch")
 		(attr smd)
 		(fp_text user "${REFERENCE}"
 			(at 0 2.5 90)
@@ -3822,6 +3831,9 @@
 				)
 			)
 		)
+		(path "/b3ddc4a8-34d6-47f2-8cbc-2c680c510b9e")
+		(sheetname "/")
+		(sheetfile "flex.kicad_sch")
 		(attr smd)
 		(fp_text user "${REFERENCE}"
 			(at -0.000001 2.500003 100)
